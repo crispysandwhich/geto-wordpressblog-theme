@@ -6,6 +6,12 @@ a{
   width: 100%;
   height: auto;
 }
+.mr-auto{
+  margin-right: auto;
+}
+.ml-auto{
+  margin-left: auto;
+}
 
 .text-dark{
   color: var(--dark);
